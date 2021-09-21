@@ -1,4 +1,4 @@
-<b>React tutorial app for Tic Tac Toe.</b>
+<b>React Tic Tac Toe app</b>
 
 Tic Tac Toe on React from official React documentation https://reactjs.org/tutorial/tutorial.html
 
